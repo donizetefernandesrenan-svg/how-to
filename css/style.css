@@ -1,0 +1,32 @@
+/* Zerando as configurações do navegador*/
+html {
+    margin: 0;
+    padding: 0;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1em;
+}
+body {
+    background-color: aquamarine;
+    color: blueviolet;
+
+}
+
+/* Seletor por id */
+#secao1 {
+    background-color: cadetblue;
+    font-size: 2em;
+    font-weight: 800;
+    color: white;
+}
+
+/* Seletor por classe*/
+.secao2{
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   font-size: 1.5em;
+   background-color: crimson;
+   color: #000000;
+}
+
+.secao3 {
+    border: 2em outset gray;
+}
